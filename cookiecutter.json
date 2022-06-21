@@ -7,12 +7,5 @@
         "MIT",
         "BSD-3-Clause",
         "No license file"
-    ],
-    "s3_bucket": "",
-    "aws_profile": "default",
-    "compatible_python_versions": "^3.8",
-    "python_interpreter": [
-        "python3",
-        "python"
     ]
 }
