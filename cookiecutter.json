@@ -1,7 +1,7 @@
 {
-    "project_name": "my streamlit app",
+    "project_name": "Project name",
     "directory_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
-    "author_name": "your-name",
+    "author_name": "Your Name",
     "description": "A short description of the project.",
     "open_source_license": [
         "MIT",
